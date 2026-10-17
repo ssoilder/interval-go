@@ -1,0 +1,15 @@
+﻿间 · INTERVAL — 离线围棋
+
+使用方法
+1. 将 ZIP 压缩包完整解压到一个文件夹。
+2. 双击 index.html，用 Chrome、Edge、Firefox 或 Safari 打开。
+3. 在开始菜单选择模式，点击“开始对弈”。右上角可切换中文 / English。
+
+无需联网、安装依赖或启动服务器。请保留所有文件在同一目录。
+支持本机双人对弈、经典棋盘、自定义尺寸与挖空、三角网格 Beta、悔棋和终局计分。
+存档保存在当前浏览器中；请使用同一浏览器与文件位置继续对局。
+规则说明中的外部参考链接需要联网，但不影响游戏。
+
+Offline Go — Extract all files, then open index.html in a modern browser.
+No installation, server or internet required. Keep the files together.
+Two players share one device. Switch the language in the top-right corner.
